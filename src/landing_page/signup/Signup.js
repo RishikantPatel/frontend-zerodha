@@ -86,7 +86,7 @@ function Signup() {
                                     type="submit"
                                     className="btn btn-primary btn-lg btn-block mt-3"
                                     onClick={() => {
-                                     window.location.href = "http://localhost:3001";
+                                     window.location.href = "/";
 
 
                                     }}
@@ -98,7 +98,7 @@ function Signup() {
 
                             <p className="text-center mt-4 mb-0">
                                 Already have an account?{" "}
-                                <a href="#" className="text-primary">
+                                <a href="/" className="text-primary">
                                     Login
                                 </a>
                             </p>

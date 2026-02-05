@@ -72,7 +72,7 @@ function Footer() {
         Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy
         redressal of the grievances
       </p>
-      <p><a href='/' style={{textDecoration:"none"}}>Smart Online Dispute Resolution</a> | <a href='' style={{textDecoration:"none"}}>Grievances Redressal Mechanism</a></p>
+      <p><a href='/' style={{textDecoration:"none"}}>Smart Online Dispute Resolution</a> | <a href='/' style={{textDecoration:"none"}}>Grievances Redressal Mechanism</a></p>
       <p>
         Investments in securities market are subject to market risks; read all
         the related documents carefully before investing.</p>
@@ -86,7 +86,7 @@ function Footer() {
         issued by NSDL/CDSL every month.
       </p>
       <p>
-        India's largest broker based on networth as per NSE. <a href='' style={{textDecoration:"none"}}>NSE broker
+        India's largest broker based on networth as per NSE. <a href='/' style={{textDecoration:"none"}}>NSE broker
         factsheet</a>
       </p>
       <p>
@@ -103,7 +103,7 @@ function Footer() {
         allotment. In case of non allotment the funds will remain in your bank
         account. As a business we don't give stock tips, and have not authorized
         anyone to trade on behalf of others. If you find anyone claiming to be
-        part of Zerodha and offering such services, please <a href='' style={{textDecoration:"none"}}>create a ticket here</a>.
+        part of Zerodha and offering such services, please <a href='/' style={{textDecoration:"none"}}>create a ticket here</a>.
       </p>
       <p>
         *Customers availing insurance advisory services offered by Ditto
