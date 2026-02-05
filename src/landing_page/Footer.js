@@ -10,47 +10,47 @@ function Footer() {
         </div>
         <div className="col">
           <p>Company</p>
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}}  className="text-muted  fs-8" >About</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}}  className="text-muted  fs-8" >About</a>
           <br></br>
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Products</a>
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Products</a>
           <br></br>
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Pricing</a>
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Pricing</a>
           <br></br>
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Referral programme</a>
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Referral programme</a>
           <br></br>
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Careers</a> 
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Careers</a> 
           
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Zerodha.tech</a>
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Zerodha.tech</a>
           <br></br>
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}}  className="text-muted fs-8">Press & media</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}}  className="text-muted fs-8">Press & media</a>
           <br></br>
-          <a href=""  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Zerodha cares (CSR)</a>
+          <a href="/"  style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8">Zerodha cares (CSR)</a>
         </div>
         <br></br>
         <div className="col">
           <p>Support</p>
-          <a href=""style={{textDecoration:"none",lineHeight:"3"}} className="text-muted  fs-8"  >Contact us</a>
+          <a href="/"style={{textDecoration:"none",lineHeight:"3"}} className="text-muted  fs-8"  >Contact us</a>
           <br></br>
 
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Support portal</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Support portal</a>
           <br></br>
 
-          <a href=""style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 "  >Z-Connect blog</a>
+          <a href="/"style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 "  >Z-Connect blog</a>
           <br></br>
 
-          <a href=""style={{textDecoration:"none",lineHeight:"3"}} className="text-muted  fs-8"  >List of charges</a>
+          <a href="/"style={{textDecoration:"none",lineHeight:"3"}} className="text-muted  fs-8"  >List of charges</a>
   
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Download</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Download</a>
           <br></br>
         </div>
 
         <div className="col">
           <p>Account</p>
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Open an account</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Open an account</a>
           <br></br>
-          <a href="" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Fund transfer</a>
+          <a href="/" style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 " >Fund transfer</a>
           <br></br>
-          <a href=""style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 "  >60 day challenge</a>
+          <a href="/"style={{textDecoration:"none",lineHeight:"3"}} className="text-muted fs-8 "  >60 day challenge</a>
           <br></br>
         </div>
       </div>
@@ -62,17 +62,17 @@ function Footer() {
         Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public
         School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For
         any complaints pertaining to securities broking please write to {" "}
-        <a href='' style={{textDecoration:"none"}}>complaints@zerodha.com</a>, for DP related to  <a href='' style={{textDecoration:"none"}}>dp@zerodha.com</a>. Please ensure
+        <a href='/' style={{textDecoration:"none"}}>complaints@zerodha.com</a>, for DP related to  <a href='/' style={{textDecoration:"none"}}>dp@zerodha.com</a>. Please ensure
         you carefully read the Risk Disclosure Document as prescribed by SEBI |
         ICF
       </p>
       <p>
-        Procedure to file a complaint on <a href='' style={{textDecoration:"none",fontSize:"12px"}}>SEBI SCORES</a>: Register on SCORES portal.
+        Procedure to file a complaint on <a href='/' style={{textDecoration:"none",fontSize:"12px"}}>SEBI SCORES</a>: Register on SCORES portal.
         Mandatory details for filing complaints on SCORES: Name, PAN, Address,
         Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy
         redressal of the grievances
       </p>
-      <p><a href='' style={{textDecoration:"none"}}>Smart Online Dispute Resolution</a> | <a href='' style={{textDecoration:"none"}}>Grievances Redressal Mechanism</a></p>
+      <p><a href='/' style={{textDecoration:"none"}}>Smart Online Dispute Resolution</a> | <a href='' style={{textDecoration:"none"}}>Grievances Redressal Mechanism</a></p>
       <p>
         Investments in securities market are subject to market risks; read all
         the related documents carefully before investing.</p>
@@ -113,15 +113,15 @@ function Footer() {
         mechanism for such products.
       </p>
       <div className="text-center">
-      <p> <a href='' style={{textDecoration:"none",marginRight:"30px"}} >NSE</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}} >BSE</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>MCX</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>Terms &amp; conditions</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>Policies &amp; procedures</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>Privacy policy</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>Disclosure</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}>For investor's attention</a>
-      <a href='' style={{textDecoration:"none",marginRight:"30px"}}> Investor charter</a>
+      <p> <a href='/' style={{textDecoration:"none",marginRight:"30px"}} >NSE</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}} >BSE</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}>MCX</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}>Terms &amp; conditions</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}>Policies &amp; procedures</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}>Privacy policy</a>
+      <a href= '/' style={{textDecoration:"none",marginRight:"30px"}}>Disclosure</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}>For investor's attention</a>
+      <a href='/' style={{textDecoration:"none",marginRight:"30px"}}> Investor charter</a>
 
       
       </p>
