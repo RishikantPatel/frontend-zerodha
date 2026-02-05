@@ -5,10 +5,8 @@ import CreateTicket from "./CreateTicket";
 function  SupportPage(){
   return (
     <>
-
       <Hero />
       <CreateTicket />
-
     </>
   );
 }
