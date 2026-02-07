@@ -86,7 +86,7 @@ function Signup() {
                                     type="submit"
                                     className="btn btn-primary btn-lg btn-block mt-3"
                                     onClick={() => {
-                                     window.location.href = "/";
+                                     window.location.href = "https://dashboard-zerodha-kappa.vercel.app/";
 
 
                                     }}
